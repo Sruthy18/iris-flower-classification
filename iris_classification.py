@@ -56,4 +56,8 @@ plt.ylabel("Petal Width (cm)")
 plt.title("Iris Flower Classification")
 plt.legend()
 plt.tight_layout()
+
+# Save the graph for GitHub
+plt.savefig("iris_classification_plot.png", dpi=300, bbox_inches="tight")
+
 plt.show()

@@ -59,3 +59,7 @@ This project helped me understand the basic machine learning workflow, model tra
 
 ## Author
 Sruthy Sundar
+
+## Visualization
+
+![Iris Flower Classification Plot](iris_classification_plot.png)

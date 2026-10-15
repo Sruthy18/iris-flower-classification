@@ -63,3 +63,7 @@ Sruthy Sundar
 ## Visualization
 
 ![Iris Flower Classification Plot](iris_classification_plot.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
